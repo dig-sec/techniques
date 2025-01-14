@@ -1,0 +1,1 @@
+start winlogon.exe cmd.exe /c echo This is a test > C:\testfile.txt
